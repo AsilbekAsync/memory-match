@@ -18,7 +18,7 @@ To start playing, clone the repository and follow the setup instructions below.
 git clone https://github.com/AsilbekAsync/memory-match.git
 
 # Navigate to the project directory
-cd memory-match-game
+cd memory-match
 
 # Install dependencies
 npm install
