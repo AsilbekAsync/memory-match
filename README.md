@@ -1,5 +1,35 @@
-# Vue 3 + Vite
+# Memory Match Game
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+Welcome to the Memory Match Game! This project is built using Vue 3 and Vite, utilizing Vue 3 `<script setup>` SFCs. The game challenges players to find all matching pairs of cards with the fewest moves possible.
 
-Learn more about IDE Support for Vue in the [Vue Docs Scaling up Guide](https://vuejs.org/guide/scaling-up/tooling.html#ide-support).
+## Features
+
+- **Responsive Design**: Enjoy a seamless experience on any device.
+- **Dynamic Gameplay**: Cards shuffle each time the game is reset.
+- **Visual Feedback**: Confetti animation upon game completion.
+- **Stylish UI**: Modern design using Tailwind CSS.
+
+## Getting Started
+
+To start playing, clone the repository and follow the setup instructions below.
+
+```bash
+# Clone the repository
+git clone <repository-url>
+
+# Navigate to the project directory
+cd memory-match-game
+
+# Install dependencies
+npm install
+
+# Start the development server
+npm run dev
+```
+
+## Learn More
+
+For more information on Vue 3 and Vite, check out the [Vue.js Documentation](https://vuejs.org/guide/introduction.html) and [Vite Documentation](https://vitejs.dev/guide/).
+
+Enjoy the game and have fun matching!
+
